@@ -1,0 +1,6 @@
+net\app\usermanager\model\User.class
+net\app\usermanager\controller\UserController.class
+net\app\usermanager\dao\UserDaoImpl.class
+net\app\usermanager\service\UserService.class
+net\app\usermanager\service\UserServiceImpl.class
+net\app\usermanager\dao\UserDao.class
